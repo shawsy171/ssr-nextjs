@@ -4,7 +4,7 @@
   "description": "Next.js SSR App",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 5040",
     "build": "next build",
     "start": "next start"
   },
